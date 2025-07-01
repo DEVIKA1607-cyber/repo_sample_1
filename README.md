@@ -1,4 +1,6 @@
-
+D DEVIKA
+Tirupattur,Tamil Nadu India
+🌱 I’m currently learning
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devika Durairaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devika07durairaj@gmail.com) 
 
