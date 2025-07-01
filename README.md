@@ -1,6 +1,7 @@
 D DEVIKA
 Tirupattur,Tamil Nadu India
-🌱 I’m currently learning
+I’m looking to colloborate on Full-stack web development projecys, especially those involving th MERN stack or any innovative idea around video management and content creation
+🌱 I’m currently learning and exploring blockchain concepts
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devika Durairaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devika07durairaj@gmail.com) 
 
